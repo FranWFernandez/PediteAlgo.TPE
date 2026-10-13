@@ -1,8 +1,8 @@
-# TPE_WEB_2_Fernandez_Urbistondo
+# TPE_WEB_2_Fernandez
 
-Somos Francisco Fernandez y Martin Urbistondo.
+Somos Francisco Fernandez
  
- Nuestro trabajo va a consistir de una aplicaion de venta de comida estilo: pedidos ya, rappi , etc.
+El trabajo va a consistir de una aplicaion de venta de comida estilo: pedidos ya, rappi , etc.
     
 Basicamente contamos con una tabla principal llamada 'productos',
 en la que se van a especificar el tipo de comida/bebida que se venden, 
